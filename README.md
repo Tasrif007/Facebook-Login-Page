@@ -3,6 +3,6 @@ Practice and Learn
 
 **Screenshot:**
 
-![Screenshot 2021-05-31 202650](https://user-images.githubusercontent.com/78270149/120207741-9cde8b00-c24e-11eb-80ca-aa2464e6ea53.jpg)
 
+<img width="960" alt="2021-05-31_202844" src="https://user-images.githubusercontent.com/78270149/120208057-ed55e880-c24e-11eb-8fad-05101a7eec8c.png">
 
